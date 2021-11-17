@@ -1,4 +1,4 @@
-# infografiaTPFinalTaller
+# TPFinalTecno
 La idea es que el repositorio funcione para alojar los archivos que vayamos programando.
 A tener en cuenta:
 
