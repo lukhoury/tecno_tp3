@@ -1,28 +1,111 @@
-{   "audio":"audios/audio_oficial_320.mp3",
-    "modelo":"modelos/modelo.glb",
-    "fondo":"rgb(0,0,0)",
-    "data" :
-        [
-           {
-                "tiempo":"00:00",
-                "duracion":2000,
-                "camara":[0,0,-5],
-                "target":[0,0,0],
-                "nombre":"vista uno"
-           },
-           {
-               "tiempo":"00:03",
-               "duracion":2000,
-               "camara":[0,0,-10],
-               "target":[0,0,0],
-               "nombre":"vista dos"
+{
+     "audio": "audios/audio_oficial_320.mp3",
+     "modelo": "modelos/TP3Tecno_03.RELOAD.glb",
+     "fondo": "rgb(0,0,0)",
+     "data": [{
+               "tiempo": "00:00",
+               "duracion": 10000,
+               "camara": "Camara1",
+               "target": "Target1",
+               "nombre": "vista uno"
           },
           {
-               "tiempo":"00:09",
-               "duracion":2000,
-               "camara":[0,0,-15],
-               "target":[0,0,0],
-               "nombre":"vista tres"
+               "tiempo": "00:13",
+               "duracion": 2000,
+               "camara": "Camara2",
+               "target": "Target2",
+               "nombre": "vista 2"
+          },
+          {
+               "tiempo": "00:17",
+               "duracion": 2000,
+               "camara": "Camara3",
+               "target": "Target3",
+               "nombre": "vista tres"
+          },
+          {
+               "tiempo": "00:19",
+               "duracion": 2000,
+               "camara": "Camara4",
+               "target": "Target4",
+               "nombre": "vista cuatro"
+          },
+          {
+               "tiempo": "00:22",
+               "duracion": 2000,
+               "camara": "Camara5",
+               "target": "Target5",
+               "nombre": "vista cinco"
+          },
+          {
+               "tiempo": "00:24",
+               "duracion": 2000,
+               "camara": "Camara6",
+               "target": "Target6",
+               "nombre": "vista seis"
+          },
+          {
+               "tiempo": "00:27",
+               "duracion": 2000,
+               "camara": "Camara7",
+               "target": "Target7",
+               "nombre": "vista siete"
+          },
+          {
+               "tiempo": "00:30",
+               "duracion": 2000,
+               "camara": "Camara8",
+               "target": "Target8",
+               "nombre": "vista ocho"
+          },
+          {
+               "tiempo": "00:38",
+               "duracion": 2000,
+               "camara": "Camara9",
+               "target": "Target9",
+               "nombre": "vista nueve"
+          },
+          {
+               "tiempo": "00:46",
+               "duracion": 2000,
+               "camara": "Camara10",
+               "target": "Target10",
+               "nombre": "vista uno"
+          },
+          {
+               "tiempo": "00:54",
+               "duracion": 2000,
+               "camara": "Camara11",
+               "target": "Target11",
+               "nombre": "vista uno"
+          },
+          {
+               "tiempo": "00:59",
+               "duracion": 2000,
+               "camara": "Camara12",
+               "target": "Target12",
+               "nombre": "vista uno"
+          },
+          {
+               "tiempo": "01:03",
+               "duracion": 2000,
+               "camara": "Camara13",
+               "target": "Target13",
+               "nombre": "vista uno"
+          },
+          {
+               "tiempo": "01:07",
+               "duracion": 2000,
+               "camara": "Camara14",
+               "target": "Target14",
+               "nombre": "vista uno"
+          },
+          {
+               "tiempo": "01:12",
+               "duracion": 2000,
+               "camara": "Camara15",
+               "target": "Target15",
+               "nombre": "vista uno"
           }
-      ]
+     ]
 }
