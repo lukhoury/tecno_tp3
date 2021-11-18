@@ -11,7 +11,7 @@ INSTALACION DE GIT
 
 CLONAR EL PROYECTO
 1-Previamente creamos una carpeta donde se alojara el repositorio en nuestra computadora local
-2-Abrimos vscode y clickeamos sobre el menu "view/ver", seleccionamos la opcion command palette/paleta de comandos. En ese punto buscamos “git: Clone”. La herramienta nos pedirá la ruta y ahí es donde tenemos que pegar la URL del repositorio que hemos creado en Github. En nuestro caso seria https://github.com/melilandivar/infografiaTPFinalTaller
+2-Abrimos vscode y clickeamos sobre el menu "view/ver", seleccionamos la opcion command palette/paleta de comandos. En ese punto buscamos “git: Clone”. La herramienta nos pedirá la ruta y ahí es donde tenemos que pegar la URL del repositorio que hemos creado en Github. En nuestro caso seria https://github.com/lukhoury/tecno_tp3
 3-Seleccionamos la carpeta creada previamente para alojar el repositorio remoto.
 4-Nos va a pedir que autoricemos GitHub y le otorgamos todos los permisos.
 
