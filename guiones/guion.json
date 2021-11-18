@@ -1,7 +1,7 @@
 {
      "audio": "audios/audio_oficial_320.mp3",
      "modelo": "modelos/TP3Tecno_03.NewRELOAD.glb",
-     "fondo": "rgb(0,0,0)",
+          "fondo": "rgb(0,0,0)",
      "data": [{
                "tiempo": "00:00",
                "duracion": 10000,
