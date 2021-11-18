@@ -1,6 +1,6 @@
 {
      "audio": "audios/audio_oficial_320.mp3",
-     "modelo": "modelos/TP3Tecno_03.RELOAD.glb",
+     "modelo": "modelos/TP3Tecno_04.glb",
      "fondo": "rgb(0,0,0)",
      "data": [{
                "tiempo": "00:00",
@@ -32,7 +32,7 @@
           },
           {
                "tiempo": "00:22",
-               "duracion": 2000,
+               "duracion": 4000,
                "camara": "Camara5",
                "target": "Target5",
                "nombre": "vista cinco"
